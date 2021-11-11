@@ -1,0 +1,15 @@
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\Challenge.Infra.deps.json
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\Challenge.Infra.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\ref\Challenge.Infra.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\Challenge.Infra.pdb
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\Challenge.Domain.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\bin\Debug\net5.0\Challenge.Domain.pdb
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.csprojAssemblyReference.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.AssemblyInfoInputs.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.AssemblyInfo.cs
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.csproj.CoreCompileInputs.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.csproj.CopyComplete
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\ref\Challenge.Infra.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Infra\obj\Debug\net5.0\Challenge.Infra.pdb

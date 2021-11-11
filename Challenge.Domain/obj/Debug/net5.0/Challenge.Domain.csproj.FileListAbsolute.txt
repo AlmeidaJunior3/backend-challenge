@@ -1,0 +1,12 @@
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.deps.json
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\bin\Debug\net5.0\ref\Challenge.Domain.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\bin\Debug\net5.0\Challenge.Domain.pdb
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.csprojAssemblyReference.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.AssemblyInfoInputs.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.AssemblyInfo.cs
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\ref\Challenge.Domain.dll
+C:\Users\almeida.junior\Desktop\Projetos\Challenge\Challenge.Domain\obj\Debug\net5.0\Challenge.Domain.pdb
